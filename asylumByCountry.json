@@ -1,0 +1,82 @@
+[
+  {
+    "p": "Canada",
+    "somme": 54
+  },
+  {
+    "p": "Norway",
+    "somme": 6
+  },
+  {
+    "p": "USA",
+    "somme": 21
+  },
+  {
+    "p": "Austria",
+    "somme": 4
+  },
+  {
+    "p": "Germany",
+    "somme": 7
+  },
+  {
+    "p": "Netherlands",
+    "somme": 6
+  },
+  {
+    "p": "Australia",
+    "somme": 5
+  },
+  {
+    "p": "Liechtenstein",
+    "somme": 3
+  },
+  {
+    "p": "Korea",
+    "somme": 1
+  },
+  {
+    "p": "Czech Rep",
+    "somme": 1
+  },
+  {
+    "p": "Spain",
+    "somme": 1
+  },
+  {
+    "p": "Sweden",
+    "somme": 2
+  },
+  {
+    "p": "Switzerland",
+    "somme": 7
+  },
+  {
+    "p": "Italy",
+    "somme": 1
+  },
+  {
+    "p": "New Zealand",
+    "somme": 5
+  },
+  {
+    "p": "Luxembourg",
+    "somme": 15
+  },
+  {
+    "p": "Iceland",
+    "somme": 4
+  },
+  {
+    "p": "Malta",
+    "somme": 2
+  },
+  {
+    "p": "Belgium",
+    "somme": 1
+  },
+  {
+    "p": "Finland",
+    "somme": 1
+  }
+]

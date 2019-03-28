@@ -1,0 +1,688 @@
+[
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 1999,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Norway",
+    "country_origin": "Switzerland",
+    "year": 1999,
+    "month": "October",
+    "affected": 3
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 1999,
+    "month": "October",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Austria",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "August",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "November",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Germany",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "February",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Germany",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Germany",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "May",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Germany",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "October",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Netherlands",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "June",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2000,
+    "month": "July",
+    "affected": 4
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2001,
+    "month": "August",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Australia",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "January",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Australia",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "July",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Austria",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "January",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "June",
+    "affected": 3
+  },
+  {
+    "country_asylum": "Liechtenstein",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "January",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "February",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2002,
+    "month": "June",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2003,
+    "month": "May",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Korea",
+    "country_origin": "Switzerland",
+    "year": 2003,
+    "month": "August",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2004,
+    "month": "December",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Czech Rep",
+    "country_origin": "Switzerland",
+    "year": 2004,
+    "month": "November",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Liechtenstein",
+    "country_origin": "Switzerland",
+    "year": 2004,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Netherlands",
+    "country_origin": "Switzerland",
+    "year": 2004,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Netherlands",
+    "country_origin": "Switzerland",
+    "year": 2004,
+    "month": "September",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Austria",
+    "country_origin": "Switzerland",
+    "year": 2005,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2005,
+    "month": "February",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2005,
+    "month": "November",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Germany",
+    "country_origin": "Switzerland",
+    "year": 2005,
+    "month": "January",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Spain",
+    "country_origin": "Switzerland",
+    "year": 2005,
+    "month": "December",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2005,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2006,
+    "month": "June",
+    "affected": 4
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2006,
+    "month": "July",
+    "affected": 2
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2006,
+    "month": "June",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Australia",
+    "country_origin": "Switzerland",
+    "year": 2007,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2007,
+    "month": "December",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Liechtenstein",
+    "country_origin": "Switzerland",
+    "year": 2007,
+    "month": "October",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Sweden",
+    "country_origin": "Switzerland",
+    "year": 2007,
+    "month": "May",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Sweden",
+    "country_origin": "Switzerland",
+    "year": 2007,
+    "month": "October",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Australia",
+    "country_origin": "Switzerland",
+    "year": 2008,
+    "month": "June",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2008,
+    "month": "May",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2008,
+    "month": "July",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Germany",
+    "country_origin": "Switzerland",
+    "year": 2008,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Switzerland",
+    "country_origin": "Switzerland",
+    "year": 2008,
+    "month": "May",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2008,
+    "month": "April",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "January",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "February",
+    "affected": 3
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "March",
+    "affected": 3
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "August",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Netherlands",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "September",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Switzerland",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "June",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Switzerland",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Switzerland",
+    "country_origin": "Switzerland",
+    "year": 2009,
+    "month": "August",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Austria",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "January",
+    "affected": 3
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "August",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "September",
+    "affected": 3
+  },
+  {
+    "country_asylum": "Italy",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Norway",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "July",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Switzerland",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2010,
+    "month": "September",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2011,
+    "month": "September",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2011,
+    "month": "October",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Switzerland",
+    "country_origin": "Switzerland",
+    "year": 2011,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2011,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2011,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2012,
+    "month": "May",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2012,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Netherlands",
+    "country_origin": "Switzerland",
+    "year": 2012,
+    "month": "November",
+    "affected": 1
+  },
+  {
+    "country_asylum": "New Zealand",
+    "country_origin": "Switzerland",
+    "year": 2012,
+    "month": "September",
+    "affected": 5
+  },
+  {
+    "country_asylum": "Netherlands",
+    "country_origin": "Switzerland",
+    "year": 2013,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Luxembourg",
+    "country_origin": "Switzerland",
+    "year": 2014,
+    "month": "July",
+    "affected": 7
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2014,
+    "month": "September",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2014,
+    "month": "November",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2014,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Germany",
+    "country_origin": "Switzerland",
+    "year": 2014,
+    "month": "July",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Luxembourg",
+    "country_origin": "Switzerland",
+    "year": 2014,
+    "month": "July",
+    "affected": 7
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2014,
+    "month": "April",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Iceland",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "February",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Malta",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "December",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Belgium",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "June",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "February",
+    "affected": 4
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Iceland",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "February",
+    "affected": 2
+  },
+  {
+    "country_asylum": "Malta",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "December",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2015,
+    "month": "March",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "October",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Canada",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "November",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Finland",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "November",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Luxembourg",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "January",
+    "affected": 1
+  },
+  {
+    "country_asylum": "Norway",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "January",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "May",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "June",
+    "affected": 1
+  },
+  {
+    "country_asylum": "USA",
+    "country_origin": "Switzerland",
+    "year": 2016,
+    "month": "October",
+    "affected": 1
+  }
+]

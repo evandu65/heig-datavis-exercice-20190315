@@ -9,5 +9,20 @@ const writeJson = require('./writeJson')
   ex:
     writeJson('asylumByCountry.json', list)
 */
-const DATA = require('./asylum.json')
+const data = require('./asylum.json')
 // asylum.json doit être créé avec prepareData
+const pays = R.uniq(data.map(d=>d.country_asylum))
+
+const calcSomme = (resultat, d) => {
+  return resultat + d
+}
+
+const somme = pays => {
+  return data.filter(d => d.country_asylum === pays)
+  .map(d => d.affected)
+  .reduce(calcSomme, 0)
+}
+
+const list = pays.map(p => ({p, somme:somme(p)}))
+
+writeJson('asylumByCountry.json', list)
